@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HACK Video</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            padding: 50px;
+            background-image: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0'); /* Random hacker-themed background */
+            background-size: cover;
+            color: #000000; /* Black color for text */
+            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.6); /* Light shadow for better readability */
+            overflow: hidden;
+        }
+        h1 {
+            font-size: 36px; /* Reasonable size for main heading */
+            margin-bottom: 20px;
+            font-weight: bold; /* Bold text */
+        }
+        h2 {
+            font-size: 28px; /* Size for subheadings */
+            margin: 20px 0;
+            font-weight: bold; /* Bold text */
+            color: #ffcc00; /* Catchy color for subheadings */
+        }
+        button {
+            padding: 15px 30px;
+            font-size: 20px; /* Standard size for buttons */
+            margin: 10px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            font-weight: bold; /* Bold button text */
+        }
+        .watch-button {
+            background-color: #28a745; /* Green color */
+            color: white;
+        }
+        .leaked-button {
+            background-color: #dc3545; /* Red color for leaked hacks */
+            color: white;
+        }
+        button:hover {
+            opacity: 0.8; /* Fade effect on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome To Kd Nester Channel</h1>
+    <h2>🚀 Watch 💯 AntiBan AntiBlacklist Br-Cs Working Hack</h2>
+    <button class="watch-button" onclick="window.location.href='https://youtu.be/uxJn00hQCnY?si=vsxX4E-jJC3RzIm3'">Watch HACK Video</button>
+    <h2>🔥 Free Paid LEAKED Hacks:</h2>
+    <button class="leaked-button" onclick="window.location.href='https://t.me/+_g0L7JS-Y0phMDk1'">Get Leaked Hacks</button>
+</body>
+</html>
